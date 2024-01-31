@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm WhispererLechuck</h1>
-<h3 align="center">A mighty Spanish frontend developer, and sometimes a pirate!</h3>
+<h3 align="center">Frontend developer, and sometimes a mighty pirate!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whispererlechuck&label=Pirate%20checks!&color=39db24&style=flat" alt="whispererlechuck" /> </p>
+
+- 💼 Working as developer with **some** success in IBM.
 
 - 🌱 I’m currently learning **different front end framework and libraries.**
 
 - ⚡ Hobbies: **videogame, movie, and foodie lover!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
